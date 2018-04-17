@@ -1,2 +1,1 @@
-# mmall
-just a description
+mmall_learning
